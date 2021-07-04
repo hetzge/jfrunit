@@ -100,7 +100,7 @@ Alternatively, you can specify the name of a JFR configuration file, e.g. "defau
 public void someTest() throws Exception { ... }
 ```
 
-JFR configuration files are located in the _$JAVA_HOME/bin/jfr_ directory.
+JFR configuration files are located in the _$JAVA_HOME/lib/jfr_ directory.
 
 ## Build
 
